@@ -1,7 +1,5 @@
 Git Commands Basic Use:
 
-Basic Git Commands to work with are as follows:
-
 Working with local repositories
  1 ] git init
 This command turns a directory into an empty Git repository. This is the first step in creating a repository. After running git init, adding and committing files/directories is possible.
