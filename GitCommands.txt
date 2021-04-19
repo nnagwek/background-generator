@@ -7,7 +7,6 @@ Working with local repositories
 This command turns a directory into an empty Git repository. This is the first step in creating a repository. After running git init, adding and committing files/directories is possible.
 
 Usage:
-
 # change directory to codebase
 $ cd /file/path/to/code
 
@@ -31,7 +30,7 @@ Usage:
 $ git add <file or directory name>
 In Practice:
 
-# To add all files not staged:
+# To add all files not staged:(Most commonly used command)
 $ git add .
 
 # To stage a specific file:
